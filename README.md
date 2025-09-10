@@ -1,4 +1,4 @@
-# 🦸‍♂️ Sidekick
+# 🦸‍♂️ Launchpad
 
 **Launchpad** is a modern side project template built with Next.js App Router, Tailwind CSS, and Bun. Designed to help you launch fast.
 
@@ -7,11 +7,11 @@
 ### 1. Install dependencies
 
 ```bash
-bun install
+npm install
 ```
 
 ### 2. Start the development server
 
 ```bash
-bun dev
+npm run dev
 ```
